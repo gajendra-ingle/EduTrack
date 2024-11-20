@@ -36,13 +36,13 @@
 ## 🎨 Screenshots
 
 ### Home Page  
-![Home Page](screenshots/home-page.png)  
+![Home Page](home-page.png)  
 
 ### Add Student  
-![Add Student](screenshots/add-student.png)  
+![Add Student](add-student.png)  
 
 ### Edit Student  
-![Edit Student](screenshots/edit-student.png)  
+![Edit Student](edit-student.png)  
 
 
 ---
